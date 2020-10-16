@@ -121,7 +121,7 @@ const Cuenta: React.FC = () => {
                                             <tr className="unread" key={index}>
                                                 <td>
                                                     <h6 className="mb-1">{item.Concepto}</h6>
-                                                    <p className="m-0">{item.Titular}</p>
+                                                    <p className="m-0">{(item.TitularDestino) ? item.TitularDestino : item.Titular}</p>
                                                 </td>
                                                 <td>{item.CuentaDestino ? `Cuenta No.${(item.Cuenta === id) ? item.CuentaDestino : item.Cuenta}` : 'Cajero'}</td>
                                                 <td>
