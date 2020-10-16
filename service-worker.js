@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/MyBanCovid/precache-manifest.10ae73bdd08ae1fa8f8c376ca536cbd6.js"
+  "/MyBanCovid/precache-manifest.88c54ea1cb16ca321e576e0ece286a66.js"
 );
 
 self.addEventListener('message', (event) => {
