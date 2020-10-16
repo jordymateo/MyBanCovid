@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3381cf8b44cfed96aa138f50f336978",
+    "revision": "3b8bc3c8be8471b75ba4006440d66602",
     "url": "/MyBanCovid/index.html"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyBanCovid/static/js/9.66d3d775.chunk.js"
   },
   {
-    "revision": "e98593b4dad5c2e772b9",
-    "url": "/MyBanCovid/static/js/main.9b191a60.chunk.js"
+    "revision": "9033d7c7149a8cebfb5b",
+    "url": "/MyBanCovid/static/js/main.9e016f85.chunk.js"
   },
   {
     "revision": "65d73fbc76e7aaefeb4c",
