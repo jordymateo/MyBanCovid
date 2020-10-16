@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd0df566ba435a0f965ee75afea7b8d2",
+    "revision": "319b788f691d45c6044037f7858f1a6d",
     "url": "/MyBanCovid/index.html"
   },
   {
@@ -8,76 +8,76 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyBanCovid/static/css/4.e4c74f3b.chunk.css"
   },
   {
-    "revision": "7af06767e66101eaff19",
+    "revision": "b0728d0230869263cd5b",
     "url": "/MyBanCovid/static/css/5.4be0febf.chunk.css"
   },
   {
-    "revision": "d7bb41c36a46c4246cc7",
+    "revision": "979e10d3aacfb7777612",
     "url": "/MyBanCovid/static/css/6.e0cbedef.chunk.css"
   },
   {
-    "revision": "c927a7260cb6f5c41e91",
+    "revision": "f0f720c55fed129d1bde",
     "url": "/MyBanCovid/static/css/7.68da6a29.chunk.css"
   },
   {
-    "revision": "9462a7fd35d1f8afda60",
-    "url": "/MyBanCovid/static/js/0.88c97537.chunk.js"
+    "revision": "83cd67f1857397964155",
+    "url": "/MyBanCovid/static/js/0.6eeef540.chunk.js"
   },
   {
-    "revision": "e395dafe13e3fe95f04e",
-    "url": "/MyBanCovid/static/js/1.ad36c7ed.chunk.js"
+    "revision": "3ea065ea4354b65f3325",
+    "url": "/MyBanCovid/static/js/1.7d6ea1b9.chunk.js"
   },
   {
-    "revision": "dd0cfc8446dacfd37994",
-    "url": "/MyBanCovid/static/js/10.a4ea1c1c.chunk.js"
+    "revision": "1011667323a396c871ee",
+    "url": "/MyBanCovid/static/js/10.d61ad1d2.chunk.js"
   },
   {
-    "revision": "bc98c497b5c715861877",
-    "url": "/MyBanCovid/static/js/11.5dc0efe8.chunk.js"
+    "revision": "198f4af9802c7505077b",
+    "url": "/MyBanCovid/static/js/11.5253f67a.chunk.js"
   },
   {
-    "revision": "50dea483cbe96237cbde",
-    "url": "/MyBanCovid/static/js/12.33c626dd.chunk.js"
+    "revision": "25031d4d83e12ac7ffd4",
+    "url": "/MyBanCovid/static/js/12.d8122306.chunk.js"
   },
   {
-    "revision": "2e939d4e7a7b089118dc",
-    "url": "/MyBanCovid/static/js/13.b25e3cea.chunk.js"
+    "revision": "d4f7fa13ebe175f1b49a",
+    "url": "/MyBanCovid/static/js/13.64623bfd.chunk.js"
   },
   {
-    "revision": "d876b1edb286a8b46911",
-    "url": "/MyBanCovid/static/js/14.db720079.chunk.js"
+    "revision": "5a41b10dc9f090addc1e",
+    "url": "/MyBanCovid/static/js/14.ddb7866d.chunk.js"
   },
   {
     "revision": "de6922ae4989f5e4ead8",
     "url": "/MyBanCovid/static/js/4.e638c1d2.chunk.js"
   },
   {
-    "revision": "7af06767e66101eaff19",
-    "url": "/MyBanCovid/static/js/5.1329f094.chunk.js"
+    "revision": "b0728d0230869263cd5b",
+    "url": "/MyBanCovid/static/js/5.ad5e404b.chunk.js"
   },
   {
-    "revision": "d7bb41c36a46c4246cc7",
-    "url": "/MyBanCovid/static/js/6.6eac72b7.chunk.js"
+    "revision": "979e10d3aacfb7777612",
+    "url": "/MyBanCovid/static/js/6.8eb0c175.chunk.js"
   },
   {
-    "revision": "c927a7260cb6f5c41e91",
-    "url": "/MyBanCovid/static/js/7.5ec130b4.chunk.js"
+    "revision": "f0f720c55fed129d1bde",
+    "url": "/MyBanCovid/static/js/7.928b67bf.chunk.js"
   },
   {
-    "revision": "675edf610b17a4fb03d9",
-    "url": "/MyBanCovid/static/js/8.7d7654f5.chunk.js"
+    "revision": "d7aed4cb7a9149dc1c62",
+    "url": "/MyBanCovid/static/js/8.3aa5ea7a.chunk.js"
   },
   {
-    "revision": "ff38e9a0b3616dea67ae",
-    "url": "/MyBanCovid/static/js/9.66d3d775.chunk.js"
+    "revision": "ddc2753fa9e14cae911d",
+    "url": "/MyBanCovid/static/js/9.3cb34623.chunk.js"
   },
   {
     "revision": "9033d7c7149a8cebfb5b",
     "url": "/MyBanCovid/static/js/main.9e016f85.chunk.js"
   },
   {
-    "revision": "510b16d9d246414c2e7e",
-    "url": "/MyBanCovid/static/js/runtime~main.54f7a2a1.js"
+    "revision": "085ba6f9d5d96393d2d7",
+    "url": "/MyBanCovid/static/js/runtime~main.abef87de.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
