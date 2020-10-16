@@ -6,4 +6,5 @@ export type TransferenciaModelo = {
     Concepto?: string;
     Fecha?: string;
     Estado?: number;
+    TipoTransaccion?: number;
 }

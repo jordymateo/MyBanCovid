@@ -2,7 +2,7 @@
   "name": "datta-able-rv18.0.4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://jordymateo.github.io",
   "dependencies": {
     "@types/jquery": "^3.5.1",
     "@types/react-loadable": "^5.5.3",
